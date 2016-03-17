@@ -8,7 +8,7 @@
 #
 # https://github.com/mileszs/wicked_pdf/blob/master/README.md
 
-WickedPdf.config = {
-  exe_path: Rails.env.production? ? Gem.bin_path('wkhtmltopdf-heroku') : nil
-}
+#WickedPdf.config = {
+#  exe_path: Rails.env.production? ? Gem.bin_path('wkhtmltopdf-heroku') : nil
+#}
 
